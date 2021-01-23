@@ -10,14 +10,14 @@
     },
     {
       "name": "vox",
-      "position": [0, 1, 0],
+      "position": [0, 1, -1],
       "quaternion": [0, 0, 0, 1],
       "scale": [1, 1, 1],
       "start_url": "https://app.webaverse.com/assets/type/square_hedge.vox"
     },
     {
       "name": "parkour",
-      "position": [0, 0, 0],
+      "position": [0, 0, 10],
       "quaternion": [0, 0, 0, 1],
       "scale": [1, 1, 1],
       "start_url": "parkour.glb",
