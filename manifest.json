@@ -1,0 +1,5 @@
+{
+  "name": "example-scene",
+  "description": "Example Scene XRPackage",
+  "start_url": "scene.scn"
+}
