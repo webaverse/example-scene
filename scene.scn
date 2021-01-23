@@ -9,7 +9,14 @@
       "start_url": "https://avaer.github.io/land/index.js"
     },
     {
-      "name": "model",
+      "name": "vox",
+      "position": [0, 1, 0],
+      "quaternion": [0, 0, 0, 1],
+      "scale": [1, 1, 1],
+      "start_url": "https://app.webaverse.com/assets/type/square_hedge.vox"
+    },
+    {
+      "name": "parkour",
       "position": [0, 0, 0],
       "quaternion": [0, 0, 0, 1],
       "scale": [1, 1, 1],
